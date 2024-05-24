@@ -19,13 +19,6 @@ body,
   overflow: hidden;
 }
 
-#root {
-  overflow: auto;
-
-  width: 100vw;
-  height: 100vh;
-}
-
 body {
   position: fixed;
   overflow: hidden;
