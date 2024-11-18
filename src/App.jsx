@@ -4,7 +4,7 @@ import { OrbitControls } from "@react-three/drei";
 import Scene from "./Scene";
 import ARComponent from "./ar";
 
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 const Main = () => {
   return (
